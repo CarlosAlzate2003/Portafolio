@@ -1,0 +1,45 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.feed-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem;
+    position: fixed;
+    z-index: 10000;
+    top: 5rem;
+    left: 6rem;
+    color: white;
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+img{
+    width: 10rem;
+    height: 10rem;
+    border: 3px solid;
+    border-radius: 90px;
+}
+
+span{
+    width: 30rem;
+}
+
+.social-icons {
+   display: flex;
+   justify-content: space-around;
+   width: 250px;
+   margin-top: 1rem;
+}
+
+.social-icons a {
+  color: white;
+  font-size: 2rem; 
+  transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: gray;
+}
