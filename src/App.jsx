@@ -25,8 +25,8 @@ function App() {
           }}
         >
           <Navbar />
-          <Feed />
           <div className="page-flex">
+            <Feed />
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/proyectos" element={<Projects />} />

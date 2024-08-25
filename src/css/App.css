@@ -14,9 +14,8 @@ html, body {
 }
 
 .page-flex{
-    position: fixed;
-    top: 5rem;
-    right: 6rem;
-    width: 40rem;
-    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
 }

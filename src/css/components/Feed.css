@@ -7,10 +7,6 @@ body{
     flex-direction: column;
     align-items: center;
     padding: 3rem;
-    position: fixed;
-    z-index: 10000;
-    top: 5rem;
-    left: 6rem;
     color: white;
     border: 2px solid;
     border-radius: 20px;

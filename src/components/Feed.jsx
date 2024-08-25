@@ -1,8 +1,6 @@
 import foto from '../assets/foto.jpeg'
 import '../css/components/Feed.css'
 import { FaLinkedin, FaGithub, FaInstagram, FaFacebook } from 'react-icons/fa'
-// import instagram from '../assets/icons/instagram.svg'
-// import instagram from '../assets/icons/instagram.svg'
 
 const Feed = () => {
   return (

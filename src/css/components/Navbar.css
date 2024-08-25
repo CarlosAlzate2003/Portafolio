@@ -10,7 +10,7 @@ nav{
     height: 4rem;
 }
 
-ul{
+.Navbar-ul{
     display: flex;
     height: 3rem;
     align-items: center;
@@ -19,13 +19,13 @@ ul{
     list-style: none;
 }
 
-li a{
+.Navbar-li a{
     text-decoration: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
 }
 
-li a:hover{
-    color: rgba(76,70,170,1);
+.Navbar-li a:hover{
+    color: gray;
     transition: 0.2s;
 }
