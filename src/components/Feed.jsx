@@ -15,9 +15,12 @@ const Feed = () => {
         microservicios. Además, tengo habilidades en automatización de procesos,
         y manejo lenguajes como Java, C#, php y SQL. Complemento mi experiencia
         técnica con conocimientos en React para desarrollo frontend, y
-        herramientas de análisis de datos como Excel avanzado y Power BI. Mi
-        enfoque está en construir soluciones robustas y escalables que impulsen
-        el crecimiento tecnológico.
+        herramientas de análisis de datos como Excel avanzado y Power BI.
+        También tengo experiencia en la implementación de metodologías ágiles,
+        particularmente Scrum, lo que me permite trabajar de manera colaborativa
+        y enfocada en la entrega de valor continuo. Mi enfoque está en construir
+        soluciones robustas y escalables que impulsen el crecimiento
+        tecnológico.
       </span>
       <div className="social-icons">
         <a
