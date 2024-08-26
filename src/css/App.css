@@ -1,13 +1,11 @@
 html, body {
-    height: 100%;
     margin: 0;
-    overflow: hidden;
 }
   
 .background {
     position: absolute;
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    min-height: 100vh;
     transition: background 0.1s;
     background: rgb(76,70,170);
     background: linear-gradient(90deg, rgba(76,70,170,1) 0%, rgba(30,131,153,1) 45%, rgba(7,81,96,1) 100%);
@@ -15,8 +13,8 @@ html, body {
 
 .page-flex{
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    margin-top: 5rem;
     gap: 5rem;
 }

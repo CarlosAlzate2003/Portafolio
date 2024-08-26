@@ -8,20 +8,25 @@ const Feed = () => {
       <img src={foto} alt="" />
       <h2>Carlos Andres Alzate Mejia</h2>
       <h3>backend developer</h3>
-      <span>
+      <p>
         Soy Andrés, un desarrollador backend especializado en Python, con
         experiencia en frameworks como FastAPI y Flask. Me apasiona crear
         soluciones eficientes, ya sea trabajando con arquitecturas monolíticas o
         microservicios. Además, tengo habilidades en automatización de procesos,
-        y manejo lenguajes como Java, C#, php y SQL. Complemento mi experiencia
-        técnica con conocimientos en React para desarrollo frontend, y
-        herramientas de análisis de datos como Excel avanzado y Power BI.
+        y manejo lenguajes como Java, C#, php y SQL.
+      </p>
+      <p>
+        Complemento mi experiencia técnica con conocimientos en React para
+        desarrollo frontend, y herramientas de análisis de datos como Excel
+        avanzado y Power BI.
+      </p>
+      <p>
         También tengo experiencia en la implementación de metodologías ágiles,
         particularmente Scrum, lo que me permite trabajar de manera colaborativa
         y enfocada en la entrega de valor continuo. Mi enfoque está en construir
         soluciones robustas y escalables que impulsen el crecimiento
         tecnológico.
-      </span>
+      </p>
       <div className="social-icons">
         <a
           href="https://www.linkedin.com/in/carlos-andres-álzate-mejía-a476092b3/"

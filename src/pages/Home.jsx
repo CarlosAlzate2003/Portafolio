@@ -18,15 +18,15 @@ const Home = () => {
             proyectos.
           </p>
         </li>
-        <li>
+        <ul>
           <h2>Formación académica</h2>
           <li>
-            <p>- Tecnologo en Desarrollo de Software en el Pascual Bravo</p>
+            <p>Tecnologó en Desarrollo de Software en el Pascual Bravo</p>
           </li>
           <li>
-            <p>- Tecnico de Desarrollo Fullstack lvl 2</p>
+            <p>Tecnicó de Desarrollo Fullstack lvl 2</p>
           </li>
-        </li>
+        </ul>
       </ul>
     </div>
   )

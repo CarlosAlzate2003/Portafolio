@@ -1,7 +1,7 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import Home from './pages/Home'
 import Projects from './pages/Projects'
-import Contactme from './pages/Contactme'
+import Tools from './pages/Tools'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import Feed from './components/Feed'
@@ -30,7 +30,7 @@ function App() {
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/proyectos" element={<Projects />} />
-              <Route path="/contacto" element={<Contactme />} />
+              <Route path="/herramientas" element={<Tools />} />
             </Routes>
           </div>
         </div>
