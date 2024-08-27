@@ -33,6 +33,66 @@ const Projects = () => {
             Ver proyecto
           </a>
         </li>
+        <li>
+          <h2>Proximamente...</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla,
+            magni qui ipsa consequuntur cupiditate earum possimus impedit
+            dignissimos quam laudantium delectus sequi, culpa expedita ad
+            adipisci quo. Voluptates, nulla dicta!
+          </p>
+          <a href="" target="_blank">
+            Ver proyecto
+          </a>
+        </li>
+        <li>
+          <h2>Proximamente...</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla,
+            magni qui ipsa consequuntur cupiditate earum possimus impedit
+            dignissimos quam laudantium delectus sequi, culpa expedita ad
+            adipisci quo. Voluptates, nulla dicta!
+          </p>
+          <a href="" target="_blank">
+            Ver proyecto
+          </a>
+        </li>
+        <li>
+          <h2>Proximamente...</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla,
+            magni qui ipsa consequuntur cupiditate earum possimus impedit
+            dignissimos quam laudantium delectus sequi, culpa expedita ad
+            adipisci quo. Voluptates, nulla dicta!
+          </p>
+          <a href="" target="_blank">
+            Ver proyecto
+          </a>
+        </li>
+        <li>
+          <h2>Proximamente...</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla,
+            magni qui ipsa consequuntur cupiditate earum possimus impedit
+            dignissimos quam laudantium delectus sequi, culpa expedita ad
+            adipisci quo. Voluptates, nulla dicta!
+          </p>
+          <a href="" target="_blank">
+            Ver proyecto
+          </a>
+        </li>
+        <li>
+          <h2>Proximamente...</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla,
+            magni qui ipsa consequuntur cupiditate earum possimus impedit
+            dignissimos quam laudantium delectus sequi, culpa expedita ad
+            adipisci quo. Voluptates, nulla dicta!
+          </p>
+          <a href="" target="_blank">
+            Ver proyecto
+          </a>
+        </li>
       </ul>
     </div>
   )
