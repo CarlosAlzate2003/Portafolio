@@ -26,6 +26,9 @@ const Home = () => {
           <li>
             <p>Tecnicó de Desarrollo Fullstack lvl 2</p>
           </li>
+          <li>
+            <p>Diplomas en cursos de base de datos, React, Python y Java</p>
+          </li>
         </ul>
       </ul>
     </div>
