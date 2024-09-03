@@ -12,3 +12,15 @@ li p{
     flex-direction: column;
     list-style: none;
 }
+
+@media (max-width: 768px) {
+    .Home-ul {
+        align-items: center;
+    }
+}
+
+@media (max-width: 510px) {
+    li p{
+        width: 25rem;
+    }
+}

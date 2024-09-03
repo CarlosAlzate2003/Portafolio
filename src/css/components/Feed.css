@@ -12,6 +12,14 @@ body{
     border-radius: 20px;
 }
 
+.feed-box h2{
+  margin-bottom: 1rem;
+}
+
+.feed-box h3{
+  margin-bottom: 1rem;
+}
+
 img{
     width: 10rem;
     height: 10rem;
@@ -40,4 +48,47 @@ img{
 
 .social-icons a:hover {
   color: gray;
+}
+
+@media (max-width: 768px) {
+  .feed-box {
+      padding: 2rem;
+      border: none;
+  }
+
+  img {
+      width: 8rem;
+      height: 8rem;
+  }
+
+  .social-icons {
+      width: 200px;
+  }
+
+  .social-icons a {
+      font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 505px) {
+  .feed-box {
+      padding: 1rem;
+  }
+
+  .feed-box p{
+    width: 90%;
+  }
+
+  img {
+      width: 6rem;
+      height: 6rem;
+  }
+
+  .social-icons {
+      width: 150px;
+  }
+
+  .social-icons a {
+      font-size: 1rem;
+  }
 }

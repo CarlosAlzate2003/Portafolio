@@ -1,5 +1,7 @@
-html, body {
+* {
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
   
 .background {
@@ -17,4 +19,19 @@ html, body {
     align-items: center;
     justify-content: center;
     gap: 5rem;
+    padding: 0 1rem;
+}
+
+@media (max-width: 768px) {
+    .background {
+        background: linear-gradient(90deg, rgba(76,70,170,1) 0%, rgba(30,131,153,1) 60%, rgba(7,81,96,1) 100%);
+    }
+
+    body {
+        padding: 0 1rem;
+    }
+
+    .page-flex{
+        padding: 0;
+    }
 }

@@ -21,10 +21,10 @@ const Home = () => {
         <ul>
           <h2>Formación académica</h2>
           <li>
-            <p>Tecnologó en Desarrollo de Software en el Pascual Bravo</p>
+            <p>Tecnólogo en Desarrollo de Software en el Pascual Bravo</p>
           </li>
           <li>
-            <p>Tecnicó de Desarrollo Fullstack lvl 2</p>
+            <p>Técnico de Desarrollo Fullstack lvl 2</p>
           </li>
           <li>
             <p>Diplomas en cursos de base de datos, React, Python y Java</p>

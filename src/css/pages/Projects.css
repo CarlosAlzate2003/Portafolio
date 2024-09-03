@@ -3,8 +3,7 @@
     overflow: scroll;
     overflow-y: auto; /* Solo permite el scroll vertical */
     overflow-x: hidden; /* Oculta el scroll horizontal */
-    height: 80vh;
-    padding-right: 2rem;
+    height: 708px;
 }
 
 
@@ -49,4 +48,23 @@
 .projects-ul li a:active{
     transform: translateY(1px);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width: 768px) {
+    .container-projects {
+        padding-right: 1rem;
+        height: auto;
+    }
+
+    .projects-ul li a {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .projects-ul li a {
+        padding: 6px 12px;
+        font-size: 12px;
+    }
 }
