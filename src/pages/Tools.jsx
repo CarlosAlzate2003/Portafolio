@@ -12,52 +12,73 @@ const Tools = () => {
           <p>Python</p>
         </div>
         <div className="flex-item">
-          <a href="https://www.python.org" target="_blank">
-            <img src="src\assets\svg\python.svg" alt="python_icon" />
+          <a href="https://react.dev/" target="_blank">
+            <img src="src\assets\svg\react.svg" alt="react_icon" />
           </a>
-          <p>Python</p>
+          <p>React</p>
+        </div>
+        <div className="flex-item">
+          <a href="https://www.postman.com/downloads/" target="_blank">
+            <img src="src\assets\svg\postman.svg" alt="python_icon" />
+          </a>
+          <p>Postman</p>
+        </div>
+        <div className="flex-item">
+          <a href="https://www.java.com/es/" target="_blank">
+            <img src="src\assets\svg\java.svg" alt="python_icon" />
+          </a>
+          <p>Java</p>
+        </div>
+        <div className="flex-item">
+          <a
+            href="https://www.php.net/manual/es/intro-whatis.php"
+            target="_blank"
+          >
+            <img src="src\assets\svg\php.svg" alt="python_icon" />
+          </a>
+          <p>php</p>
         </div>
         <div className="flex-item">
           <a href="https://www.python.org" target="_blank">
-            <img src="src\assets\svg\python.svg" alt="python_icon" />
+            <img src="src\assets\svg\postgres.svg" alt="python_icon" />
           </a>
-          <p>Python</p>
+          <p>PostgreSQL</p>
         </div>
         <div className="flex-item">
           <a href="https://www.python.org" target="_blank">
-            <img src="src\assets\svg\python.svg" alt="python_icon" />
+            <img src="src\assets\svg\sqlserver.svg" alt="python_icon" />
           </a>
-          <p>Python</p>
+          <p>SQL Server</p>
         </div>
         <div className="flex-item">
           <a href="https://www.python.org" target="_blank">
-            <img src="src\assets\svg\python.svg" alt="python_icon" />
+            <img src="src\assets\svg\mysql.svg" alt="python_icon" />
           </a>
-          <p>Python</p>
+          <p>MySQL</p>
         </div>
         <div className="flex-item">
           <a href="https://www.python.org" target="_blank">
-            <img src="src\assets\svg\python.svg" alt="python_icon" />
+            <img src="src\assets\svg\git.svg" alt="python_icon" />
           </a>
-          <p>Python</p>
+          <p>Git</p>
         </div>
         <div className="flex-item">
           <a href="https://www.python.org" target="_blank">
-            <img src="src\assets\svg\python.svg" alt="python_icon" />
+            <img src="src\assets\svg\cshare.svg" alt="python_icon" />
           </a>
-          <p>Python</p>
+          <p>C#</p>
         </div>
         <div className="flex-item">
           <a href="https://www.python.org" target="_blank">
-            <img src="src\assets\svg\python.svg" alt="python_icon" />
+            <img src="src\assets\svg\android.svg" alt="python_icon" />
           </a>
-          <p>Python</p>
+          <p>Android Studio</p>
         </div>
         <div className="flex-item">
           <a href="https://www.python.org" target="_blank">
-            <img src="src\assets\svg\python.svg" alt="python_icon" />
+            <img src="src\assets\svg\microsoft.svg" alt="python_icon" />
           </a>
-          <p>Python</p>
+          <p>Herramientas Microsoft Office</p>
         </div>
       </div>
     </div>
