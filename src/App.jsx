@@ -21,7 +21,7 @@ function App() {
           className="background"
           onMouseMove={handleMouseMove}
           style={{
-            background: `radial-gradient(circle at ${mousePosition.x}px ${mousePosition.y}px, rgba(255, 255, 255, 0.3), transparent 100%), linear-gradient(90deg, rgba(15,20,19,1) 0%, rgba(10,69,82,1) 45%, rgba(33,4,93,1) 100%)`,
+            background: `radial-gradient(circle at ${mousePosition.x}px ${mousePosition.y}px, rgba(255, 255, 255, 0.3), transparent 5%), linear-gradient(90deg, rgb(37, 33, 100) 0%, rgb(16, 67, 78) 45%, rgb(9, 45, 53) 100%)`,
           }}
         >
           <Navbar />
