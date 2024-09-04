@@ -5,12 +5,17 @@ body{
 
 li p{
     width: 30rem;
+    margin-top: 15px;
 }
 
 .Home-ul{
     display: flex;
     flex-direction: column;
     list-style: none;
+}
+
+.Home-ul li p{
+    margin-bottom: 15px;
 }
 
 @media (max-width: 768px) {
@@ -21,6 +26,6 @@ li p{
 
 @media (max-width: 510px) {
     li p{
-        width: 25rem;
+        width: 18rem;
     }
 }
