@@ -1,7 +1,3 @@
-body{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
 .feed-box{
     display: flex;
     flex-direction: column;
@@ -10,6 +6,7 @@ body{
     color: white;
     border: 2px solid;
     border-radius: 20px;
+    animation: chargepage 0.2s;
 }
 
 .feed-box h2{
@@ -20,7 +17,7 @@ body{
   margin-bottom: 1rem;
 }
 
-img{
+.feed-box img{
     width: 10rem;
     height: 10rem;
     border: 3px solid;
@@ -56,7 +53,7 @@ img{
       border: none;
   }
 
-  img {
+  .feed-box img {
       width: 8rem;
       height: 8rem;
   }
@@ -85,10 +82,10 @@ img{
   }
 
   .social-icons {
-      width: 150px;
+      width: 200px;
   }
 
   .social-icons a {
-      font-size: 1rem;
+      font-size: 1.5rem;
   }
 }

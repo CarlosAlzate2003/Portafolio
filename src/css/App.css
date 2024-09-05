@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
   
 .background {
@@ -16,11 +18,22 @@
     align-items: center;
     justify-content: center;
     gap: 5rem;
-    padding: 0 1rem;
+    padding: 0 2rem;
+}
+
+footer{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    width: 100%;
+    text-align: center;
 }
 
 @media (max-width: 768px) {
     .page-flex{
         padding: 0;
+    }
+
+    footer{
+        font-size: 12px;
     }
 }

@@ -5,7 +5,7 @@ import { FaLinkedin, FaGithub, FaInstagram, FaFacebook } from 'react-icons/fa'
 const Feed = () => {
   return (
     <div className="feed-box">
-      <img src={foto} alt="" />
+      <img src={foto} alt="foto_adnres" />
       <h2>Carlos Andres Alzate Mejia</h2>
       <h3>backend developer</h3>
       <p>

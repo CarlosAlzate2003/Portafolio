@@ -33,6 +33,11 @@ function App() {
               <Route path="/herramientas" element={<Tools />} />
             </Routes>
           </div>
+          <footer>
+            <p>
+              © 2024 Desarrollado por <b>Carlos Andres Alzate Mejia.</b>
+            </p>
+          </footer>
         </div>
       </Router>
     </>

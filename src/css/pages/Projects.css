@@ -4,9 +4,8 @@
     overflow-y: auto; /* Solo permite el scroll vertical */
     overflow-x: hidden; /* Oculta el scroll horizontal */
     height: 708px;
+    animation: chargepage 0.2s;
 }
-
-
 
 .container-projects::-webkit-scrollbar{
     width: 8px; 

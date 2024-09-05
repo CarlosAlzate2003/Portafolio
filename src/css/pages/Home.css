@@ -1,6 +1,7 @@
-body{
+.container-home{
     margin: 0;
     color: white;
+    animation: chargepage 0.2s;
 }
 
 li p{

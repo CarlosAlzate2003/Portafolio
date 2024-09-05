@@ -1,11 +1,12 @@
 .container-tools{
-    min-height: 70vh;
-    width: 60vh;
+    width: 40vh;
     align-items: center;
+    animation: chargepage 0.2s;
 }
 
 .title-tools{
     text-align: center;
+    margin-bottom: 15px;
 }
 
 .flex-tools{
@@ -23,7 +24,7 @@
 }
 
 .flex-item img{
-    height: 90px;
+    height: 60px;
 }
 
 .flex-item a img {
@@ -37,9 +38,6 @@
 }
 
 @media (max-width: 768px) {
-    .container-tools {
-        width: 100%;
-    }
 
     .flex-item {
         flex: 1 1 calc(45% - 10px);
@@ -63,4 +61,13 @@
     .flex-item p {
         font-size: 16px;
     }
+}
+
+@keyframes chargepage {
+    from {
+        translate: 0 3rem;
+    }
+    to {
+        translate: 0 0;
+    }  
 }
