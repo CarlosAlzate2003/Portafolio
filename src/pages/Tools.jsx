@@ -7,7 +7,7 @@ const Tools = () => {
       <div className="flex-tools">
         <div className="flex-item">
           <a href="https://www.python.org" target="_blank">
-            <img src="src\assets\svg\python.svg" alt="python_icon" />
+            <img src="/src\assets\svg\python.svg" alt="python_icon" />
           </a>
           <p>Python</p>
         </div>
