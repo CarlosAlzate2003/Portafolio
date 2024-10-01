@@ -1,4 +1,4 @@
-import foto from '../assets/foto.jpeg'
+import foto from './assets/foto.jpeg'
 import '../css/components/Feed.css'
 import { FaLinkedin, FaGithub, FaInstagram, FaFacebook } from 'react-icons/fa'
 
