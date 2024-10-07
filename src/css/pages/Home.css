@@ -45,3 +45,20 @@ li p{
     transition: transform 0.2s, box-shadow 0.2s;
     margin-bottom: 15px;
 }
+
+.Home-ul li a:hover{
+    transform: translateY(-3px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+}
+
+.Home-ul li a:active{
+    transform: translateY(1px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width: 480px) {
+    .Home-ul li a {
+        padding: 6px 12px;
+        font-size: 12px;
+    }
+}
