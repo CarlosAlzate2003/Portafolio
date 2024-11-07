@@ -20,7 +20,7 @@ const Projects = () => {
           </a>
         </li>
         <li>
-          <h2>To do Item List</h2>
+          <h2>To do Item List con React</h2>
           <p>
             Creé una aplicación web para gestionar tareas pendientes con React y
             Vite, permitiendo añadir, editar y eliminar tareas con una interfaz
@@ -28,6 +28,34 @@ const Projects = () => {
           </p>
           <a
             href="https://github.com/CarlosAlzate2003/TodoItemVite"
+            target="_blank"
+          >
+            Ver proyecto
+          </a>
+        </li>
+        <li>
+          <h2>To do Item List API con C# </h2>
+          <p>
+            Desarrollé una API web en C#, .NET y Entity Framework que permite
+            gestionar tareas pendientes de manera ágil, con opciones para
+            añadir, editar y eliminar tareas rápidamente.
+          </p>
+          <a
+            href="https://github.com/CarlosAlzate2003/task-list-C-"
+            target="_blank"
+          >
+            Ver proyecto
+          </a>
+        </li>
+        <li>
+          <h2>Gestor de negocios con Python</h2>
+          <p>
+            Desarrollé una API para la gestión de negocios con FastAPI,
+            SQLAlchemy y Uvicorn, que permite administrar registros históricos y
+            genera informes en Excel de forma eficiente.
+          </p>
+          <a
+            href="https://github.com/CarlosAlzate2003/GestorNegocio_Python"
             target="_blank"
           >
             Ver proyecto
